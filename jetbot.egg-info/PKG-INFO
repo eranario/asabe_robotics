@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: jetbot
+Version: 0.4.3
+Summary: An open-source robot based on NVIDIA Jetson Nano
+License-File: LICENSE.md
+Requires-Dist: Adafruit_MotorHat
+Requires-Dist: Adafruit-SSD1306
+Requires-Dist: sparkfun-qwiic
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
